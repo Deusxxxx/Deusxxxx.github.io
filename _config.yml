@@ -18,7 +18,7 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: Change header text in <code>_config.yml</code>
+  header_text: 好无聊的博客
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    
